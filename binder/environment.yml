@@ -7,6 +7,7 @@ dependencies:
  - nodejs=11
  - nbconvert=5.5
  - widgetsnbextension=3.5
+ - nbgitpuller
  # Python Kernel
  - ipykernel=5.1
  - ipywidgets=7.5
